@@ -102,6 +102,7 @@ img {
   width: 100%;
   text-align: center;
   margin-top: 2.8rem;
+  top: -16rem;
 }
 
 .categories h3 {
@@ -111,6 +112,7 @@ img {
 .categories ul li {
   line-height: 1.4;
   color: rgba(0, 0, 0, 0.7);
+  list-style: none;
 }
 
 .featured-project h2 {
